@@ -1,0 +1,18 @@
+.ant-drawer-header {
+   
+    border-radius: 0;
+  }
+  
+  .ant-drawer-title {
+    color: #fff;
+  }
+  
+  .ant-drawer-body {
+  
+    color: #fff;
+    height: calc(100vh - 55px);
+  }
+  .ant-table {
+  font-weight: bold;
+    
+   }

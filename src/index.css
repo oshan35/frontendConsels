@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Cabin+Sketch");
+@import 'antd/dist/antd.css';
+
+
+:root {
+  --font-family: 'Manrope', sans-serif;
+  /* --font-family: "Cabin Sketch", cursive; */
+
+  --gradient-text: linear-gradient(89.97deg, #0f4275 1.84%, #8108c7 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, hsl(247, 82%, 21%) -13.86%, #9b05ff 99.55%);
+  
+  --color-bg: #ffff;
+  --color-footer : #031B34;
+  --color-blog: #042c54;
+  --color-text: #81AFDD;
+  --color-subtext: #3e7fff;
+  --bac:#0b1e456f;
+}

@@ -1,0 +1,14 @@
+.cardContributorContainer {
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+.avatarContributor {
+  margin: auto;
+  display: inline-flex;
+  align-items: center;
+  padding-left: 90px;
+}
+.cardDetailsContributor {
+  text-align: center;
+}

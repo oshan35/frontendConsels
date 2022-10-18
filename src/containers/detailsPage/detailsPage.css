@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin+Sketch");
+.image-upload > input {
+  display: none;
+}
+.registerFrom {
+  justify-content: center;
+  text-align-last: center;
+}
+.registerFrom p {
+  text-align-last: center;
+}
+.registerFrom img {
+  width: auto;
+  height: 100px;
+}
+.container{
+    align-content: center;
+    justify-content: space-between;
+
+   
+    
+}
+
+.__person img {
+  border-color: rgb(169, 169, 169);
+  width: auto;
+  height: 300px;
+}
+.person-names h3 {
+  color: var(--color-footer);
+  font-family: var(--font-family);
+}
+.person-names {
+  margin-top: 20px;
+  margin-left: 90px;
+}
+.workplace-habits {
+  margin-top: 50px;
+}
+.button-options {
+  /* margin-top: 70px; */
+  display: inline-flex;
+  justify-content: space-between;
+  margin-left: 0;
+}
+
+.ant-card {
+  background-color: var(--gradient-bar);
+  border-radius: 10px;
+  box-shadow: rgb(94, 94, 94);
+  width: auto;
+}
+.ant-card-head {
+  border-bottom: none;
+}
+
+@media (max-width: 900px) {
+  .wrapperDetails  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+  }
+}
+.strenth-weak {
+  margin-left: 10px;
+  align-items: center;
+}
+
+.wrapperDetails {
+  /* display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: blueviolet;
+  align-self: center;
+  align-items: center; */
+  display: inline-flex;
+align-content: center;
+justify-content: space-around;
+  margin: auto;
+  width:auto;
+
+  padding: 10px;
+}

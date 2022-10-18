@@ -1,0 +1,75 @@
+.custom-image img {
+  display: block;
+  border-radius: 10000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+}
+.custom-card {
+  padding: 10px 16px;
+  align-content: center;
+  text-align-last: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.custom-card p,
+h1 {
+  color: rgb(255, 255, 255);
+  font-weight: 800;
+}
+.custom-card SocialIcon {
+  margin: 20px;
+  width: 5px;
+}
+.section {
+  display: block;
+  /* margin-left: 30%; */
+  margin-right: auto;
+  background-image: url("https://spinwheel.io/wp-content/themes/spinwheel/images/bg-home.png");
+  background-repeat: no-repeat;
+  background-size: 120vw 500px;
+  height: 100hv;
+}
+
+.ant-card-body {
+  border-radius: 10px;
+  border-color: rgb(0, 0, 0);
+}
+
+.ant-card {
+  background-color: var(--gradient-bar);
+  border-radius: 10px;
+  box-shadow: #999;
+}
+
+.cardContainer {
+  margin:auto;
+  box-sizing: border-box;
+
+}
+
+.avatar {
+  margin: auto;
+  display: inline-flex;
+  align-items: center;
+  padding-left: 90px;
+  justify-content: center;
+}
+.cardDetails {
+  text-align: center;
+  color: #fff;
+}
+.cardDetails h3{
+  text-align: center;
+  color: #fff;
+}
+.bodyWrapper {
+  margin:auto;
+  width: 100%;
+  padding: 28px;
+  align-items: center;
+  display: flex;
+
+}
